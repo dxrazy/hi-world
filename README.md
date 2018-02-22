@@ -8,4 +8,4 @@ hi
 
 this is me
 
-"and the vioces in his head!"
+"and the voices in his head!"
